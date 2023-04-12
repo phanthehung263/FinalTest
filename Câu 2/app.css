@@ -1,0 +1,17 @@
+.triangle {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.triangle-row {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.triangle-block {
+    width: 20px;
+    height: 20px;
+    margin: 2px;
+    background-color: black;
+}
